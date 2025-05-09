@@ -1,5 +1,5 @@
 # Glosis-App
-Application for the GloSIS database creation and injection.
+Application for the GloSIS database creation and data injection from excel files (.xlsx).
 
 
 **Test data from:**
