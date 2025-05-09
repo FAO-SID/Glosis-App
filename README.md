@@ -8,6 +8,7 @@ Poels, R. L. H. 1987. “Soils, Water and Nutrients in a Forest Ecosystem in Sur
 
 
 **Installation**
+
 To create a new installation of the app, downdload the 'docker-compose.yml' file to a folder, and within that folder run the following commands in your CMS (windows) or Terminal (mac/linux):
 
 	docker-compose up --build -d
