@@ -20,7 +20,7 @@ services:
       - glosis-net
 
   shinyapp:
-    image: luislado/glosis-shiny:v2  # Use your uploaded image
+    image: luislado/glosis-shiny:v4  # Use your uploaded image
     container_name: glosis-shiny
     restart: always
     #platform: linux/amd64
