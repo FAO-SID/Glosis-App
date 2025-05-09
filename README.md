@@ -9,10 +9,12 @@ To create a new installation of the app, downdload the 'docker-compose.yml' file
 
 
 **Test data from:**
+
 Download the test data for testing the application.
 Poels, R. L. H. 1987. “Soils, Water and Nutrients in a Forest Ecosystem in Suriname.” PhD thesis, Wageningen, Netherlands: Agricultural University, Wageningen.
 
 **Remove the Application**
+
 To remove all existing images, containers and databases, run the following commands in your docker-compose.yml folder
 
 	docker stop $(docker ps -q)
