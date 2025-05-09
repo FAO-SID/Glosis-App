@@ -3,7 +3,7 @@ Application for the GloSIS database creation and data injection from excel files
 
 **Installation**
 
-To create a new installation of the app, downdload the 'docker-compose.yml' file to a folder, and within that folder run the following commands in your CMS (windows) or Terminal (mac/linux):
+To create a new installation of the app, downdload the 'docker-compose.yml' file to a folder in your computer. Within that folder, run the following command in your CMD (windows) or Terminal (mac/linux):
 
 	docker-compose up --build -d
 
